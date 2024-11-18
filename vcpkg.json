@@ -1,0 +1,9 @@
+{
+  "name" : "kunig2",
+  "version-string" : "1.0.0",
+  "builtin-baseline" : "98aa6396292d57e737a6ef999d4225ca488859d5",
+  "dependencies" : [ {
+    "name" : "doctest",
+    "version>=" : "2.4.11"
+  } ]
+}
